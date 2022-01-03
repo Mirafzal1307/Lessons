@@ -1,0 +1,26 @@
+.navbar{
+    background: grey;
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.navbar .nav-item .nav-link{
+    color: white;
+}
+
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: white;
+}
+
+.accordion{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.katta{
+    display: flex;
+    justify-content: space-between;
+}
